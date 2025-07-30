@@ -76,7 +76,7 @@ transition: .3s;
     align-items: center;
 } 
 .homeimg img{
-    width: 22vw;
+    width: 28vw;
     animation: floatImage 4s ease-in-out infinite;
 }
 @keyframes floatImage {
